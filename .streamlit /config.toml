@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#ff4b4b"          # Warna utama (tombol, aksen)
+backgroundColor = "#ffffff"       # Warna latar belakang
+secondaryBackgroundColor = "#f0f2f6"  # Warna latar section/form
+textColor = "#31333f"             # Warna teks utama
+font = "sans serif"              # Jenis font
+
+[server]
+headless = true                  # Untuk deploy di cloud
+port = 8501                      # Port default Streamlit
+enableCORS = false               # Keamanan

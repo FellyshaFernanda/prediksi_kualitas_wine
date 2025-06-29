@@ -1,3 +1,0 @@
-mkdir .streamlit
-cd .streamlit
-touch config.toml
